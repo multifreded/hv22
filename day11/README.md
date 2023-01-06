@@ -57,7 +57,7 @@ mentioned in the challenge description. `:-C`
 At one point I saw that the small santa picture of the web page is served from a
 AWS S3 server:
 
-![](3723050.png){width=20%}
+<img src="3723050.png" width=20% height=20%>
 
 `https://hackvent2022.s3.eu-west-2.amazonaws.com/3723050.png`
 
