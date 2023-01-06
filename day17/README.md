@@ -106,8 +106,8 @@ A symbol has the duration of 4 samples:
 Baud rate is how many symbols per second: 1/0.004 = 250 baud
 ```
 
-<img src="screenUartTxSetup.png" width=49% height=49%>
-<img src="screenUartRxSetup.png" width=49% height=49%>
+<img src="screenUartTxSetup.png" width=48% height=48%>
+<img src="screenUartRxSetup.png" width=48% height=48%>
 
 RX and TX were setup with separate decoders in order to set TX to `8N1` and RX
 to `7N1`. Afterwards the message exchange could be read in plain text...
