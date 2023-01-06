@@ -32,7 +32,7 @@ Download: [SantasSleigh.raw](SantaSleigh.raw)
 *  Rudolph is heavy on duty during his holiday trip, but he managed to send at
    least a photo of his first step.
 
-   ![](day17_hint1.jpg){width=50%}
+   <img src="day17_hint1.jpg" width=50% height=50%>
 
 *  Rudolf finally wants some peace and quiet on vacation. But send us one last
    message together with a picture:
@@ -106,8 +106,8 @@ A symbol has the duration of 4 samples:
 Baud rate is how many symbols per second: 1/0.004 = 250 baud
 ```
 
-![](screenUartTxSetup.png){width=49%}
-![](screenUartRxSetup.png){width=49%}
+<img src="screenUartTxSetup.png" width=49% height=49%>
+<img src="screenUartRxSetup.png" width=49% height=49%>
 
 RX and TX were setup with separate decoders in order to set TX to `8N1` and RX
 to `7N1`. Afterwards the message exchange could be read in plain text...
