@@ -40,7 +40,7 @@ The 4 squares denote how the following QR code parts must be arraged. After
 screenshoting and arranging the QR code parts in Gimp, the following image
 resulted:
 
-![](microqr.png){width=50%}
+<img src="microqr.png" width=50% height=50%>
 
 After a bit of research it became clear that this is a so called
 [Micro QR code][wenMicroQR]. And it also became clear, that my phone is not
