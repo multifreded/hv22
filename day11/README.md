@@ -1,6 +1,6 @@
 CSS: ../meta/avenir-white.css
 
-[← Day 10](../day10/) / [↑ TOC](../README.md) / [→ Day 12](../day12/)
+[← Day 10](../day10/) / [↑ TOC](../README.md) / [→ Hidden 02](../hid02/)
 
 
 # Day 11 / HV22.11 Santa's Screenshot Render Function
@@ -299,4 +299,4 @@ over.
 
 Flag: `HV22{H0_h0_h0_H4v3_&_M3r2y-Xm45_Yarr222_<3_Pirate}`
 
-[← Day 10](../day10/) / [↑ TOC](../README.md) / [→ Day 12](../day12/)
+[← Day 10](../day10/) / [↑ TOC](../README.md) / [→ Hidden 02](../hid02/)

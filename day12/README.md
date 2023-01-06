@@ -1,6 +1,6 @@
 CSS: ../meta/avenir-white.css
 
-[← Day 11](../day11/) / [↑ TOC](../README.md) / [→ Day 13](../day13/)
+[← Hidden 02](../hid02/) / [↑ TOC](../README.md) / [→ Day 13](../day13/)
 
 
 # Day 12 / HV22.12 Funny SysAdmin
@@ -382,5 +382,4 @@ HV22{M4k3-M3-a-S4ndW1ch}
 
 Flag: `HV22{M4k3-M3-a-S4ndW1ch}`
 
-[← Day 11](../day11/) / [↑ TOC](../README.md) / [→ Day 13](../day13/)
-
+[← Hidden 02](../hid02/) / [↑ TOC](../README.md) / [→ Day 13](../day13/)

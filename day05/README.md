@@ -1,6 +1,6 @@
 CSS: ../meta/avenir-white.css
 
-[← Day 04](../day04/) / [↑ TOC](../README.md) / [→ Day 06](../day06/)
+[← Day 04](../day04/) / [↑ TOC](../README.md) / [→ Hidden 01](../hid01/)
 
 
 # Day 05 / HV22.05 Missing gift
@@ -58,4 +58,4 @@ The flag was read out manually.
 
 Flag: `HV22{this-is-a-w4ste-of-pl4stic}`
 
-[← Day 04](../day04/) / [↑ TOC](../README.md) / [→ Day 06](../day06/)
+[← Day 04](../day04/) / [↑ TOC](../README.md) / [→ Hidden 01](../hid01/)

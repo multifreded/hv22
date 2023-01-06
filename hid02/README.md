@@ -1,6 +1,6 @@
 CSS: ../meta/avenir-white.css
 
-[← Hidden 01](../hid01/) / [↑ TOC](../README.md) / [→ Hidden 03](../hid03/)
+[← Day 11](../day11/) / [↑ TOC](../README.md) / [→ Day 12](../day12/)
 
 # Hidden 02 / HV22.H2 The Elves's Secret
 
@@ -44,4 +44,4 @@ screenshot-meta-backdoor ...
 
 Flag: `HV22{5G0ldRing5QuickGetThem2MtDoom}`
 
-[← Hidden 01](../hid01/) / [↑ TOC](../README.md) / [→ Hidden 03](../hid03/)
+[← Day 11](../day11/) / [↑ TOC](../README.md) / [→ Day 12](../day12/)

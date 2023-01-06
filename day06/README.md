@@ -1,6 +1,6 @@
 CSS: ../meta/avenir-white.css
 
-[← Day 05](../day05/) / [↑ TOC](../README.md) / [→ Day 07](../day07/)
+[← Hidden 01](../hid01/) / [↑ TOC](../README.md) / [→ Day 07](../day07/)
 
 
 # Day 06 / HV22.06 privacy isn't given
@@ -136,4 +136,4 @@ Converting the following bytes from hex to ASCII gave the flag: \
 
 Flag: `HV22{Ch41nS_ar3_Publ1C}`
 
-[← Day 05](../day05/) / [↑ TOC](../README.md) / [→ Day 07](../day07/)
+[← Hidden 01](../hid01/) / [↑ TOC](../README.md) / [→ Day 07](../day07/)

@@ -1,6 +1,6 @@
 CSS: ../meta/avenir-white.css
 
-[↑ TOC](../README.md) / [→ Hidden 02](../hid02/)
+[← Day 05](../day05/) / [↑ TOC](../README.md) / [→ Day 06](../day06/)
 
 # Hidden 01 / HV22.H1 Santa's Secret
 
@@ -43,4 +43,4 @@ Converting these decimals to ASCII gives the first hidden flag.
 
 Flag: `HV22{h1dd3n-fl4g!}`
 
-[↑ TOC](../README.md) / [→ Hidden 02](../hid02/)
+[← Day 05](../day05/) / [↑ TOC](../README.md) / [→ Day 06](../day06/)
