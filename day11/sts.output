@@ -1,0 +1,5 @@
+{
+    "UserId": "AROA4G76YFUNCDEOS6SMF:i-047cd1a3bf326ce6a",
+    "Account": "839663496474",
+    "Arn": "arn:aws:sts::839663496474:assumed-role/Hackvent-SecretReader-EC2-Role/i-047cd1a3bf326ce6a"
+}
